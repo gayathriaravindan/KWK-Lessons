@@ -15,7 +15,7 @@ class ViewController3: UIViewController {
 
         // Do any additional setup after loading the view.
     }
-    @IBAction func pressMyth(_ sender: Any) {
+    @IBAction func pressedMyth(_ sender: Any) {
         labelMessage.text = "Correct! Most people don't know that."
     }
     
